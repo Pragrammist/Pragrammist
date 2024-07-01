@@ -15,6 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#I'm Fullstack developer
+# I'm Fullstack developer
 
+## Backend frameworks
+  # Main
+    - ASP.NET CORE
+  # Have Worked
+    - ASP.NET
+    - express.js
+    - fastapi
+    
 
+## Datastores:
+  # Main:
+  - PostgresSql
+  - Redis
+  - ElasticSearch
+  - MySql
+  - MSSql
+  - MongoDb
+  # Have worked
+   - Neo4j
+   - InfluxDb
+   - Clickhouse
+   - Sqlite
+  
+  
