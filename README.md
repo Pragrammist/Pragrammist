@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  ### Main:
   - c#
   - ts
- # Have worked
+ ### Have worked
   - js
   - python
   - dart
@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 ## Backend frameworks
   ### Main
-    - ASP.NET CORE
+   - ASP.NET CORE
   ### Have Worked
-    - ASP.NET
-    - express.js
-    - fastapi
+   - ASP.NET
+   - express.js
+   - fastapi
     
 ## Datastores:
   ### Main:
