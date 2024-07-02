@@ -17,6 +17,17 @@ Here are some ideas to get you started:
 
 # I'm Fullstack developer
 
+## Languages
+ ### Main:
+  - c#
+  - ts
+ # Have worked
+  - js
+  - python
+  - dart
+  - c++
+    
+
 ## Backend frameworks
   ### Main
     - ASP.NET CORE
@@ -25,7 +36,6 @@ Here are some ideas to get you started:
     - express.js
     - fastapi
     
-
 ## Datastores:
   ### Main:
   - PostgresSql
@@ -39,5 +49,15 @@ Here are some ideas to get you started:
    - InfluxDb
    - Clickhouse
    - Sqlite
+   - Logstash
   
-  
+## Frotend frameworks/libraries
+  ### Main:
+   - react
+   - next.js
+   - redux toolkit
+   - mui
+  ### Have worked
+   - Angular.js
+   - blazor
+   - flutter
